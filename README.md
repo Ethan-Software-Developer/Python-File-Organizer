@@ -1,6 +1,3 @@
-
-Sure! Here’s a simplified README explaining the File Organizer:
-
 File Organizer
 Description
 The File Organizer is a Python script designed to automatically sort files in a specified directory into organized folders based on their file types. This helps keep your workspace tidy and makes it easier to find files quickly.
